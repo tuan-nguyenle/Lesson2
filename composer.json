@@ -1,0 +1,16 @@
+{
+  "name": "lenguyentuan/lesson2",
+  "description": "TestLampart",
+  "autoload": {
+    "psr-4": {
+      "app\\": "./"
+    }
+  },
+  "authors": [
+    {
+      "name": "tuan-nguyenle",
+      "email": "nhabao706@gmail.com"
+    }
+  ],
+  "require": {}
+}
